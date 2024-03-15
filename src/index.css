@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins";
+}
+
+.container {
+  /* padding: 0 20px; */
+  max-width: 1440px;
+  margin: auto;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
